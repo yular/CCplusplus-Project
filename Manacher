@@ -1,7 +1,13 @@
 public Manacher{
 public:
+  /*
+  *
+  * The O(n) algorithm to find the index of center of longest palindrome substring of the given string
+  * p[i] is the half length of palindrome string whose center index is i.
+  *
+  */
   int IdxofLongestPalindromeSubstr(string s){
-    int res = 0;
+    int idx = 0, res = 0;
     int n = s.size();
     string s1;
     s1.resize(2*n + 2);
@@ -20,9 +26,12 @@ public:
         while(s1[p[i] + i] == s1[i - p[i]]) ++ p[i];
         if(i + p[i] > id + p[id])
             id = i;
-        res = max(res, i);
+        if(res < p[i]){
+          res = max(res, p[i]);
+          idx = i;
+        }
     }
     //return the idx of center of longest palindrome substring
-    return res - 1;
+    return idx/2 - 1;
   }
 }

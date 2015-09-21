@@ -1,0 +1,33 @@
+public class UnionFind{
+public:
+  UnionFind(int n){
+    fa.resize(n);
+    for(int i = 0; i < n; ++ i)
+      fa[i] = -1;
+  }
+  
+  int find(int u){
+    int s = u;
+    for(s = u; fa[s] >= 0; s = fa[s]) ;
+    while(s != u){
+      int tmp = fa[u];
+      fa[u] = s;
+      u = tmp;
+    }
+    return s;
+  }
+  
+  int unionset(int a, int b){
+    int fa1 = find(a), fa2 = find(b);
+    int tmp = fa1 + fa2;
+    if(fa1 > fa2){
+      fa[a] = fa2;
+      fa[b] = tmp;
+    }else{
+      fa[a] = tmp;
+      fa[b] = fa1;
+    }
+  }
+private:
+vector<int> fa;
+}

@@ -54,13 +54,13 @@ int main(){
             int str_len = prim[j].size();
             if(i + str_len >= len || prim[j] != str_const.substr(i + 1, str_len))
                 continue;
-            dp[i + str_len + 1] = 1;
+            dp[i + str_len] = 1;
         }
     }
     bool isfind = false;
     for(int i = len - 1; i >= 0; -- i){
         if(dp[i]){
-            fout<<i<<endl;
+            fout<<i + 1<<endl;
             isfind = true;
             break;
         }

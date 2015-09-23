@@ -31,22 +31,7 @@ ofstream fout("concom.out");
 int n, bnd;
 int stock[M][M], stock1[M][M];
 bool vis[M];
-/*
-void dfs(int u){
-    for(int i = 1; i <= bnd; ++ i){
-        if(i == u)
-            continue;
-        if(stock[u][i] > 50){
-            if(!vis[i]){
-                vis[i] = 1;
-                dfs(i);
 
-            }else{
-            }
-        }
-    }
-}
-*/
 int main(){
     fin>>n;
     int a, b, p;

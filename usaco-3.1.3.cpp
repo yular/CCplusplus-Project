@@ -1,6 +1,6 @@
 /*
 *
-* Tag: Set (Data Structure)
+* Tag: Set (Data Structure, needs some tricky pruning)
 * Time: O(nlogn)
 * Space: O(n)
 */

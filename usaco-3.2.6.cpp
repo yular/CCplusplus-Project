@@ -115,7 +115,6 @@ int main(){
         for(int j = 1; j <= p; ++ j){
             sum += recd[j][i];
         }
-    //    cout<<" sum = "<<sum<<endl;
         ans = min(ans, sum);
     }
     fout<<ans<<endl;

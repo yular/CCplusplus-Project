@@ -20,12 +20,12 @@ public:
   int unionset(int a, int b){
     int fa1 = find(a), fa2 = find(b);
     int tmp = fa[fa1]+fa[fa2];
-    if(fa1 > fa2){
-      fa[a] = fa2;
-      fa[b] = tmp;
+    if(fa[fa1] > fa[fa2]){
+      fa[fa1] = fa2;
+      fa[fa2] = tmp;
     }else{
-      fa[a] = tmp;
-      fa[b] = fa1;
+      fa[fa1] = tmp;
+      fa[fa2] = fa1;
     }
   }
 private:

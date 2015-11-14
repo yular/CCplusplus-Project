@@ -19,7 +19,7 @@ public:
   
   int unionset(int a, int b){
     int fa1 = find(a), fa2 = find(b);
-    int tmp = fa1 + fa2;
+    int tmp = fa[fa1]+fa[fa2];
     if(fa1 > fa2){
       fa[a] = fa2;
       fa[b] = tmp;

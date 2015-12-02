@@ -1,7 +1,7 @@
 /*
 *
 * Tag: Covex Hull
-* Time: O(n^2)
+* Time: O(nlgn)
 * Space: O(n)
 */
 

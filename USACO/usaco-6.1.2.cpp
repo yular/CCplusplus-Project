@@ -2,7 +2,7 @@
 *
 * Tag: DP
 * Time: O(rc)
-* Space: O(r+c)
+* Space: O(c)
 */
 
 #include<iostream>

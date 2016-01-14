@@ -1,3 +1,9 @@
+/*
+*
+* Tag: DP
+* Time: O(NF)
+* Space: O(F)
+*/
 #include <cstdio>
 #include <cstring>
 #include <cmath>
@@ -17,8 +23,6 @@ int p[N], w[N];
 int n;
 
 int main() {
-//    freopen("/Users/baiyang/Project/CCPP/USACO/USACO/text_editor.txt", "r", stdin);
-//    freopen("/Users/baiyang/Project/CCPP/USACO/USACO/text_editor.out", "w", stdout);
     int T;
     scanf("%d",&T);
     while (T --) {

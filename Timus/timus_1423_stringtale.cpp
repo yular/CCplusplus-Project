@@ -43,9 +43,7 @@ void getnext(){
 }
 
 int kmp(string &s, string &t, int ls, int lt){
-//    printf("%d %d\n",ls,lt);
-//    puts(s);
-//    puts(t);
+
     int i = 0, j = 0;
     while (i < ls && j < lt) {
         if (i == -1 || t[j] == s[i]) {
@@ -64,8 +62,7 @@ int kmp(string &s, string &t, int ls, int lt){
 
 
 int main(){
-//    freopen("fence4.in", "r", stdin);
-//    freopen("fence4.out", "w", stdout);
+
     cin>>n;
     cin>>s>>t;
     if (s == t) {

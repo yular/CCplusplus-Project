@@ -26,7 +26,6 @@ struct point{
     int idx;
 }pnts[M], stks[M];
 int n, top;
-//pair<int, int> pnt[M], stk[M];
 unordered_map<int, unordered_set<int>> dict;
 double ans;
 bool vis[M];

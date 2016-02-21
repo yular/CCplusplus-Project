@@ -1,7 +1,7 @@
 /*
  *
  * Tag: Implementation
- * Time: O(nm)
+ * Time: max(O(n), O(m))
  * Space: O(nm)
  */
 #include <iostream>

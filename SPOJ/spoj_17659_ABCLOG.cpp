@@ -20,7 +20,6 @@
 using namespace std;
 const int N = 500;
 const int M = 20;
-const double eps = 1e-10;
 long long n;
 
 int main() {

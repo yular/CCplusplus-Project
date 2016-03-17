@@ -7,13 +7,13 @@ using namespace std;
 /*
 * Another name of this data structure is Fenwick tree
 */
-class binaryindextree {
+class BinaryIndexTree {
 public:
 	vector<T> bidxtree;
 	int bound;
 
 	//Initialization: set the maximum number of elements of binary index tree.
-	binaryindextree(int bnd){
+	BinaryIndexTree(int bnd){
 		bound = bnd;
 		bidxtree.resize(bound + 1);
 		for(int i = 0; i <= bound; ++ i){

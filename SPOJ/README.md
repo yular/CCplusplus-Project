@@ -2,7 +2,8 @@
 
 <hr>
 
-### Number of Solved Questions: 203
+### Number of Solved Questions: 
+203
 
 <hr>
 

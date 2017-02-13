@@ -17,4 +17,6 @@
 * Compile Error: [Problem](http://www.spoj.com/problems/CE/);      [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_4074_CE.cpp).
 * Repair City Hall: [Problem](http://www.spoj.com/problems/MCITYHAL/);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_MCITYHAL_MCITYHAL.cpp).
 * Tables: [Problem](http://www.spoj.com/problems/AE1B/);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_4310_AE1B.cpp).
+* Look and Say: [Problem](http://www.spoj.com/problems/LOOKSAY/);      [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_3081_LOOKSAY.cpp).
 * Scuba Diver: [Problem](http://www.spoj.com/problems/SCUBADIV/);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_181_SCUBADIV.cpp).
+* Meowist Networking: [Problem](http://www.spoj.com/problems/MEOWIST/);      [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_4879_MEOWIST.cpp).

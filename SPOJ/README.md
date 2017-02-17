@@ -3,7 +3,7 @@
 <hr>
 
 ### Number of Solved Questions: 
-214
+218
 
 <hr>
 
@@ -21,3 +21,7 @@
 * Scuba Diver: [Problem](http://www.spoj.com/problems/SCUBADIV/);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_181_SCUBADIV.cpp).
 * Meowist Networking: [Problem](http://www.spoj.com/problems/MEOWIST/);      [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_4879_MEOWIST.cpp).
 * Here Be Dragons: [Problem](http://www.spoj.com/problems/AMR11G/);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_10234_AMR11G.cpp).
+* Problem 2: [Problem](http://www.spoj.com/problems/NOVICE22);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_8215_NOVICE22.cpp).
+* ZBROJ: [Problem](http://www.spoj.com/problems/ZBROJ/);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_8395_ZBROJ.cpp).
+* Return SIGSEGV: [Problem](http://www.spoj.com/problems/SIGSEGV);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_7663_SIGSEGV.cpp).
+* Alchemy: [Problem](http://www.spoj.com/problems/ALCHE/);      [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_7207_ALCHE.cpp).

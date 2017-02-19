@@ -3,7 +3,7 @@
 <hr>
 
 ### Number of Solved Questions: 
-221
+222
 
 <hr>
 
@@ -28,3 +28,4 @@
 * Most Common Letter: [Problem](http://www.spoj.com/problems/MCL/);      [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_4907_MCL.cpp).
 * Filip: [Problem](http://www.spoj.com/problems/FILIP);      [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_5848_FILIP.cpp).
 * Easy Longest Increasing Subsequence: [Problem](http://www.spoj.com/problems/ELIS);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_11110_ELIS.cpp). 
+* Max Area: [Problem](http://www.spoj.com/problems/COMPSEM0);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_11317_COMPSEM0.cpp).

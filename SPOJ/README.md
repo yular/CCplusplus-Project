@@ -3,7 +3,7 @@
 <hr>
 
 ### Number of Solved Questions: 
-222
+224
 
 <hr>
 
@@ -29,3 +29,5 @@
 * Filip: [Problem](http://www.spoj.com/problems/FILIP);      [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_5848_FILIP.cpp).
 * Easy Longest Increasing Subsequence: [Problem](http://www.spoj.com/problems/ELIS);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_11110_ELIS.cpp). 
 * Max Area: [Problem](http://www.spoj.com/problems/COMPSEM0);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_11317_COMPSEM0.cpp).
+* Second Problem: [Problem](http://www.spoj.com/problems/RIOI_T_1);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_12112_RIOI_T_1.cpp).
+* Easy Longest Common Subsequence: [Problem](http://www.spoj.com/problems/EELCS);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_11111_EELCS.cpp).

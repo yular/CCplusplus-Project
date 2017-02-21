@@ -3,7 +3,7 @@
 <hr>
 
 ### Number of Solved Questions: 
-224
+225
 
 <hr>
 
@@ -31,3 +31,4 @@
 * Max Area: [Problem](http://www.spoj.com/problems/COMPSEM0);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_11317_COMPSEM0.cpp).
 * Second Problem: [Problem](http://www.spoj.com/problems/RIOI_T_1);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_12112_RIOI_T_1.cpp).
 * Easy Longest Common Subsequence: [Problem](http://www.spoj.com/problems/EELCS);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_11111_EELCS.cpp).
+* Missing Numver: [Problem](http://www.spoj.com/problems/MISSING);      [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_13995_MISSING.cpp).

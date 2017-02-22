@@ -3,7 +3,7 @@
 <hr>
 
 ### Number of Solved Questions: 
-225
+228
 
 <hr>
 
@@ -32,3 +32,6 @@
 * Second Problem: [Problem](http://www.spoj.com/problems/RIOI_T_1);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_12112_RIOI_T_1.cpp).
 * Easy Longest Common Subsequence: [Problem](http://www.spoj.com/problems/EELCS);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_11111_EELCS.cpp).
 * Missing Number: [Problem](http://www.spoj.com/problems/MISSING);      [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_13995_MISSING.cpp).
+* Problem 5: [Problem](http://www.spoj.com/problems/CODEM5/);        [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_18298_CODEM5.cpp).
+* Help Pikachu: [Problem](http://www.spoj.com/problems/PIKACHU);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_16064_PIKACHU.cpp).
+* Cumulative Sum Query: [Problem](http://www.spoj.com/problems/CSUMQ/);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_21591_CSUMQ.cpp).

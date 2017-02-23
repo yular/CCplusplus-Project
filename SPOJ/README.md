@@ -3,7 +3,7 @@
 <hr>
 
 ### Number of Solved Questions: 
-228
+231
 
 <hr>
 
@@ -35,3 +35,6 @@
 * Problem 5: [Problem](http://www.spoj.com/problems/CODEM5/);        [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_18298_CODEM5.cpp).
 * Help Pikachu: [Problem](http://www.spoj.com/problems/PIKACHU);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_16064_PIKACHU.cpp).
 * Cumulative Sum Query: [Problem](http://www.spoj.com/problems/CSUMQ/);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_21591_CSUMQ.cpp).
+* Sort the list of n integers: [Problem](http://www.spoj.com/problems/PESADA01);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_22373_PESADA01.c).
+* Quickly sort a list of integers: [Problem](http://www.spoj.com/problems/PESADA06);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_22753_PESADA06.c).
+* Binary Again: [Problem](http://www.spoj.com/problems/BINA/);        [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_24249_BINA.cpp).

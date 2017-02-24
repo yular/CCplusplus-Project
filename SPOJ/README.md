@@ -3,7 +3,7 @@
 <hr>
 
 ### Number of Solved Questions: 
-231
+232
 
 <hr>
 
@@ -38,3 +38,4 @@
 * Sort the list of n integers: [Problem](http://www.spoj.com/problems/PESADA01);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_22373_PESADA01.c).
 * Quickly sort a list of integers: [Problem](http://www.spoj.com/problems/PESADA06);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_22753_PESADA06.c).
 * Binary Again: [Problem](http://www.spoj.com/problems/BINA/);        [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_24249_BINA.cpp).
+* Variations: [Problem](http://www.spoj.com/problems/VARIATIONSTM/);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_25177_VARIATIONSTM.cpp).

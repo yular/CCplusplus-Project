@@ -3,7 +3,7 @@
 <hr>
 
 ### Number of Solved Questions: 
-234
+236
 
 <hr>
 
@@ -41,3 +41,6 @@
 * Variations: [Problem](http://www.spoj.com/problems/VARIATIONSTM/);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_25177_VARIATIONSTM.cpp).
 * Easy Masks: [Problem](http://www.spoj.com/problems/EASYMRKS/);      [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_25306_EASYMRKS.cpp).
 * DB & GCD: [Problem](http://www.spoj.com/problems/DB001/);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_DB001_DB001.cpp).
+* Help MS Dohni: [Problem](http://www.spoj.com/problems/IMVK/);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_27309_IMVK.cpp).
+* Best Students: [Problem](http://www.spoj.com/problems/BESTMARK/);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_26807_BESTMARK.cpp).
+* Print it All: [Problem](http://www.spoj.com/problems/PRINTITALL/);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_26886_PRINTITALL.cpp).

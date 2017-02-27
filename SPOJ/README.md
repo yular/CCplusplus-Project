@@ -3,7 +3,7 @@
 <hr>
 
 ### Number of Solved Questions: 
-238
+241
 
 <hr>
 
@@ -47,3 +47,6 @@
 * Almost Prime Numbers: [Problem](http://www.spoj.com/problems/KPRIMES/);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_26690_KPRIMES.cpp).
 * A + B: [Problem](http://www.spoj.com/problems/LONGSUM/);      [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_26806_LONGSUM.cpp).
 * Ditto and String: [Problem](http://www.spoj.com/problems/DITTOSTR/);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_26699_DITTOSTR.cpp).
+* Pyramid: [Problem](http://www.spoj.com/problems/TPYRAMID/);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_26804_TPYRAMID.cpp).
+* Ballons for All: [Problem](http://www.spoj.com/problems/BALLOONS/);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_26803_BALLOONS.cpp).
+* Lucky 7, Unlucky 13: [Problem](http://www.spoj.com/problems/LUCKY713/);        [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_29747_LUCKY713.cpp).

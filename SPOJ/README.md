@@ -3,7 +3,7 @@
 <hr>
 
 ### Number of Solved Questions: 
-241
+244
 
 <hr>
 
@@ -50,3 +50,6 @@
 * Pyramid: [Problem](http://www.spoj.com/problems/TPYRAMID/);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_26804_TPYRAMID.cpp).
 * Ballons for All: [Problem](http://www.spoj.com/problems/BALLOONS/);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_26803_BALLOONS.cpp).
 * Lucky 7, Unlucky 13: [Problem](http://www.spoj.com/problems/LUCKY713/);        [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_29747_LUCKY713.cpp).
+* Muski Trouble: [Problem](http://www.spoj.com/problems/MUSTR/);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_28640_MUSTR.cpp).
+* Real Give Way: [Problem](http://www.spoj.com/problems/GOC11F/);      [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_28178_GOC11F.cpp).
+* Fenwick Trees: [Problem](http://www.spoj.com/problems/FENTREE/);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_28682_FENTREE.cpp).

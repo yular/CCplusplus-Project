@@ -3,7 +3,7 @@
 <hr>
 
 ### Number of Solved Questions: 
-246
+247
 
 <hr>
 

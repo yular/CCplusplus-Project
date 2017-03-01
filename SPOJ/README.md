@@ -3,7 +3,7 @@
 <hr>
 
 ### Number of Solved Questions: 
-244
+246
 
 <hr>
 
@@ -53,3 +53,6 @@
 * Muski Trouble: [Problem](http://www.spoj.com/problems/MUSTR/);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_28640_MUSTR.cpp).
 * Real Give Way: [Problem](http://www.spoj.com/problems/GOC11F/);      [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_28178_GOC11F.cpp).
 * Fenwick Trees: [Problem](http://www.spoj.com/problems/FENTREE/);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_28682_FENTREE.cpp).
+* Hidden Couple: [Problem](http://www.spoj.com/problems/HCOUPLE/);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_29749_HCOUPLE.cpp).
+* Easy Stack: [Problem](http://www.spoj.com/problems/STACKEZ/);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_30831_STACKEZ.cpp).
+* Easy Queue: [Problem](http://www.spoj.com/problems/QUEUEEZ/);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_30832_QUEUEEZ.cpp).

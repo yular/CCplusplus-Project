@@ -3,7 +3,7 @@
 <hr>
 
 ### Number of Solved Questions: 
-247
+248
 
 <hr>
 
@@ -51,6 +51,9 @@
 * Ballons for All: [Problem](http://www.spoj.com/problems/BALLOONS/);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_26803_BALLOONS.cpp).
 * Lucky 7, Unlucky 13: [Problem](http://www.spoj.com/problems/LUCKY713/);        [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_29747_LUCKY713.cpp).
 * Muski Trouble: [Problem](http://www.spoj.com/problems/MUSTR/);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_28640_MUSTR.cpp).
+* Foodie: [Problem](http://www.spoj.com/problems/FOODIE/);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_27220_FOODIE.cpp).
+* Sum to Zero: [Problem](http://www.spoj.com/problems/GSTOZERO/);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_25978_GSTOZER.cpp).
+* Easy Odd Sum: [Problem](http://www.spoj.com/problems/MADODDSUM/);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_25583_MADODDSUM.cpp).
 * Real Give Way: [Problem](http://www.spoj.com/problems/GOC11F/);      [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_28178_GOC11F.cpp).
 * Fenwick Trees: [Problem](http://www.spoj.com/problems/FENTREE/);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_28682_FENTREE.cpp).
 * Hidden Couple: [Problem](http://www.spoj.com/problems/HCOUPLE/);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_29749_HCOUPLE.cpp).

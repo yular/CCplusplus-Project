@@ -3,7 +3,7 @@
 <hr>
 
 ### Number of Solved Questions: 
-250
+253
 
 <hr>
 
@@ -52,10 +52,13 @@
 * Lucky 7, Unlucky 13: [Problem](http://www.spoj.com/problems/LUCKY713/);        [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_29747_LUCKY713.cpp).
 * Muski Trouble: [Problem](http://www.spoj.com/problems/MUSTR/);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_28640_MUSTR.cpp).
 * Foodie: [Problem](http://www.spoj.com/problems/FOODIE/);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_27220_FOODIE.cpp).
+* Mayor De Tres: [Problem](http://www.spoj.com/problems/MAYDE3/);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_24317_MAYDE3.cpp).
 * Sum to Zero: [Problem](http://www.spoj.com/problems/GSTOZERO/);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_25978_GSTOZER.cpp).
 * Easy Odd Sum: [Problem](http://www.spoj.com/problems/MADODDSUM/);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_25583_MADODDSUM.cpp).
 * Real Give Way: [Problem](http://www.spoj.com/problems/GOC11F/);      [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_28178_GOC11F.cpp).
 * Fenwick Trees: [Problem](http://www.spoj.com/problems/FENTREE/);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_28682_FENTREE.cpp).
 * Hidden Couple: [Problem](http://www.spoj.com/problems/HCOUPLE/);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_29749_HCOUPLE.cpp).
+* Playing Game is Fun!: [Problem](http://www.spoj.com/problems/KKL/);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_25712_KKL.cpp).
+* GCD of non-negative integers: [Problem](http://www.spoj.com/problems/PES16GCD/);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_26113_PES16GCD.cpp).
 * Easy Stack: [Problem](http://www.spoj.com/problems/STACKEZ/);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_30831_STACKEZ.cpp).
 * Easy Queue: [Problem](http://www.spoj.com/problems/QUEUEEZ/);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_30832_QUEUEEZ.cpp).

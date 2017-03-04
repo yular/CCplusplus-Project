@@ -3,7 +3,7 @@
 <hr>
 
 ### Number of Solved Questions: 
-253
+256
 
 <hr>
 
@@ -50,7 +50,10 @@
 * Pyramid: [Problem](http://www.spoj.com/problems/TPYRAMID/);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_26804_TPYRAMID.cpp).
 * Ballons for All: [Problem](http://www.spoj.com/problems/BALLOONS/);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_26803_BALLOONS.cpp).
 * Lucky 7, Unlucky 13: [Problem](http://www.spoj.com/problems/LUCKY713/);        [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_29747_LUCKY713.cpp).
+* Chemical X: [Problem](http://www.spoj.com/problems/CHEM_X/);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_22444_CHEM_X.cpp).
+* Insert and Search: [Problem](http://www.spoj.com/problems/ARNAB1/);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_22446_ARNAB1.cpp).
 * Muski Trouble: [Problem](http://www.spoj.com/problems/MUSTR/);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_28640_MUSTR.cpp).
+* All pairs of shortest paths in a diagram: [Problem](http://www.spoj.com/problems/PESADA11/);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_23506_PESADA11.cpp).
 * Foodie: [Problem](http://www.spoj.com/problems/FOODIE/);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_27220_FOODIE.cpp).
 * Mayor De Tres: [Problem](http://www.spoj.com/problems/MAYDE3/);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_24317_MAYDE3.cpp).
 * Sum to Zero: [Problem](http://www.spoj.com/problems/GSTOZERO/);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_25978_GSTOZER.cpp).

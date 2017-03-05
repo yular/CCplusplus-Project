@@ -3,7 +3,7 @@
 <hr>
 
 ### Number of Solved Questions: 
-256
+257
 
 <hr>
 
@@ -14,6 +14,9 @@
 * Hulk: [Problem](http://www.spoj.com/problems/RETO6);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_28617_RETO6.cpp).
 * SUM OF DIGITS: [Problem](http://www.spoj.com/problems/ALCATRAZ1/);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_29154_ALCATRAZ1.cpp).
 * Ping Pong Probability: [Problem](http://www.spoj.com/problems/CZ_PROB3/);      [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_1393_CZ_PROB3.cpp).
+* Generador de direcciones de correo electrónico:[Problem](http://www.spoj.com/problems/EMAILGEN/);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_24910_EMAILGEN.cpp).
+* Todos Iguales: [Problem](http://www.spoj.com/problems/TIGUALES/);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_24989_TIGUALES.cpp).
+* Solo vocales en mayúsculas: [Problem](http://www.spoj.com/problems/VOCALES);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_24911_VOCALES.cpp).
 * Compile Error: [Problem](http://www.spoj.com/problems/CE/);      [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_4074_CE.cpp).
 * Repair City Hall: [Problem](http://www.spoj.com/problems/MCITYHAL/);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_MCITYHAL_MCITYHAL.cpp).
 * Tables: [Problem](http://www.spoj.com/problems/AE1B/);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_4310_AE1B.cpp).

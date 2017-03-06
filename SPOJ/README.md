@@ -3,7 +3,7 @@
 <hr>
 
 ### Number of Solved Questions: 
-259
+262
 
 <hr>
 
@@ -60,6 +60,9 @@
 * Foodie: [Problem](http://www.spoj.com/problems/FOODIE/);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_27220_FOODIE.cpp).
 * Mayor De Tres: [Problem](http://www.spoj.com/problems/MAYDE3/);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_24317_MAYDE3.cpp).
 * Sum to Zero: [Problem](http://www.spoj.com/problems/GSTOZERO/);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_25978_GSTOZER.cpp).
+* Mayores que el primero y multiplos de 5: [Problem](http://www.spoj.com/problems/MAY1YX5/);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_24893_MAY1YX5.cpp).
+* Múltiplos de 7 y cantidad de pares: [Problem](http://www.spoj.com/problems/X7YPAR/);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_24944_X7YPAR.cpp).
+* Calcular F(x) para 3 números: [Problem](http://www.spoj.com/problems/TRESFDEX/);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_24951_TRESFDEX.cpp).
 * Easy Odd Sum: [Problem](http://www.spoj.com/problems/MADODDSUM/);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_25583_MADODDSUM.cpp).
 * Real Give Way: [Problem](http://www.spoj.com/problems/GOC11F/);      [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_28178_GOC11F.cpp).
 * Fenwick Trees: [Problem](http://www.spoj.com/problems/FENTREE/);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_28682_FENTREE.cpp).

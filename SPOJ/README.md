@@ -3,7 +3,7 @@
 <hr>
 
 ### Number of Solved Questions: 
-262
+265
 
 <hr>
 
@@ -49,6 +49,9 @@
 * Print it All: [Problem](http://www.spoj.com/problems/PRINTITALL/);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_26886_PRINTITALL.cpp).
 * Almost Prime Numbers: [Problem](http://www.spoj.com/problems/KPRIMES/);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_26690_KPRIMES.cpp).
 * A + B: [Problem](http://www.spoj.com/problems/LONGSUM/);      [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_26806_LONGSUM.cpp).
+* Run Length Encoding: [Problem](http://www.spoj.com/problems/RUNLEN/);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_22262_RUNLEN.cpp).
+* Odd Count: [Problem](http://www.spoj.com/problems/ODDCNT/);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_25210_ODDCNT.cpp).
+* The Desert Island: [Problem](http://www.spoj.com/problems/DIISLAND/);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_21744_DIISLAND.cpp).
 * Ditto and String: [Problem](http://www.spoj.com/problems/DITTOSTR/);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_26699_DITTOSTR.cpp).
 * Pyramid: [Problem](http://www.spoj.com/problems/TPYRAMID/);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_26804_TPYRAMID.cpp).
 * Ballons for All: [Problem](http://www.spoj.com/problems/BALLOONS/);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_26803_BALLOONS.cpp).

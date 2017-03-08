@@ -3,7 +3,7 @@
 <hr>
 
 ### Number of Solved Questions: 
-265
+266
 
 <hr>
 
@@ -41,6 +41,9 @@
 * Sort the list of n integers: [Problem](http://www.spoj.com/problems/PESADA01);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_22373_PESADA01.c).
 * Quickly sort a list of integers: [Problem](http://www.spoj.com/problems/PESADA06);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_22753_PESADA06.c).
 * Binary Again: [Problem](http://www.spoj.com/problems/BINA/);        [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_24249_BINA.cpp).
+* 5RETO 10 MARATON: [Problem](http://www.spoj.com/problems/RETO1M10/);        [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_25226_RETO1M10.cpp).
+* 5RETO 10 MARATON: [Problem](http://www.spoj.com/problems/RETO5M10/);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_25230_RETO5M10.cpp).
+* Caesar cipher: [Problem](http://www.spoj.com/problems/CACI/);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_25125_CACI.cpp).
 * Variations: [Problem](http://www.spoj.com/problems/VARIATIONSTM/);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_25177_VARIATIONSTM.cpp).
 * Easy Masks: [Problem](http://www.spoj.com/problems/EASYMRKS/);      [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_25306_EASYMRKS.cpp).
 * DB & GCD: [Problem](http://www.spoj.com/problems/DB001/);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_DB001_DB001.cpp).

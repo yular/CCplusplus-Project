@@ -3,7 +3,7 @@
 <hr>
 
 ### Number of Solved Questions: 
-268
+271
 
 <hr>
 
@@ -77,3 +77,6 @@
 * GCD of non-negative integers: [Problem](http://www.spoj.com/problems/PES16GCD/);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_26113_PES16GCD.cpp).
 * Easy Stack: [Problem](http://www.spoj.com/problems/STACKEZ/);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_30831_STACKEZ.cpp).
 * Easy Queue: [Problem](http://www.spoj.com/problems/QUEUEEZ/);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_30832_QUEUEEZ.cpp).
+* An Arithmetic Problem: [Problem](http://www.spoj.com/problems/PRJAN15A/);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_22533_PRJAN15A.cpp).
+* Number of components in an undirected graph: [Problem](http://www.spoj.com/problems/PESADA07/);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_22819_PESADA07.cpp).
+* Decrypt the Message: [Problem](http://www.spoj.com/problems/BYU15W_1/);        [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_23428_BYU15W_1.cpp).

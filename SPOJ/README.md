@@ -3,7 +3,7 @@
 <hr>
 
 ### Number of Solved Questions: 
-271
+274
 
 <hr>
 
@@ -80,3 +80,6 @@
 * An Arithmetic Problem: [Problem](http://www.spoj.com/problems/PRJAN15A/);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_22533_PRJAN15A.cpp).
 * Number of components in an undirected graph: [Problem](http://www.spoj.com/problems/PESADA07/);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_22819_PESADA07.cpp).
 * Decrypt the Message: [Problem](http://www.spoj.com/problems/BYU15W_1/);        [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_23428_BYU15W_1.cpp).
+* Next Largest In a Range: [Problem](http://www.spoj.com/problems/RANGELAR/);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_21864_RANGELAR.cpp).
+* Quick Transaction: [Problem](http://www.spoj.com/problems/QUICKTRN/);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_21865_QUICKTRN.cpp).
+* VEGETABLE SHOPKEEPER 1: [Problem](http://www.spoj.com/problems/WEIGHT1/);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_21675_WEIGHT1.cpp).

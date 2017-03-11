@@ -3,7 +3,7 @@
 <hr>
 
 ### Number of Solved Questions: 
-274
+277
 
 <hr>
 
@@ -83,3 +83,6 @@
 * Next Largest In a Range: [Problem](http://www.spoj.com/problems/RANGELAR/);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_21864_RANGELAR.cpp).
 * Quick Transaction: [Problem](http://www.spoj.com/problems/QUICKTRN/);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_21865_QUICKTRN.cpp).
 * VEGETABLE SHOPKEEPER 1: [Problem](http://www.spoj.com/problems/WEIGHT1/);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_21675_WEIGHT1.cpp).
+* Student Database: [Problem](http://www.spoj.com/problems/STUDID/);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_20847_STUDID.cpp).
+* Vowel Again: [Problem](http://www.spoj.com/problems/VWL2/);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_21056_VWL2.cpp).
+* Universal Radius: [Problem](http://www.spoj.com/problems/UNIR/);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_21048_UNIR.cpp).

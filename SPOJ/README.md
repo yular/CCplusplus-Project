@@ -3,7 +3,7 @@
 <hr>
 
 ### Number of Solved Questions: 
-277
+280
 
 <hr>
 
@@ -86,3 +86,6 @@
 * Student Database: [Problem](http://www.spoj.com/problems/STUDID/);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_20847_STUDID.cpp).
 * Vowel Again: [Problem](http://www.spoj.com/problems/VWL2/);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_21056_VWL2.cpp).
 * Universal Radius: [Problem](http://www.spoj.com/problems/UNIR/);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_21048_UNIR.cpp).
+* Simplest Pattern Search: [Problem](http://www.spoj.com/problems/STRSRC/);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_20767_STRSRC.cpp).
+* Triangle Under a Circle: [Problem](http://www.spoj.com/problems/NAJTUC/);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_21570_NAJTUC.cpp).
+* BASE FIGHT: [Problem](http://www.spoj.com/problems/BASS/);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_21598_BASS.cpp).

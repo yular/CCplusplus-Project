@@ -90,3 +90,6 @@
 * Triangle Under a Circle: [Problem](http://www.spoj.com/problems/NAJTUC/);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_21570_NAJTUC.cpp).
 * BASE FIGHT: [Problem](http://www.spoj.com/problems/BASS/);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_21598_BASS.cpp).
 * Connectivity: [Problem](http://www.spoj.com/problems/GRACON/);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_20340_GRACON.cpp).
+* Separate the Number: [Problem](http://www.spoj.com/problems/KAUSH/);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_19598_KAUSH.cpp).
+* Odd: [Problem](http://www.spoj.com/problems/ODDCOUNT/);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_18643_ODDCOUNT.cpp).
+* Test Xor: [Problem](http://www.spoj.com/problems/TESTXOR/);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_17823_TESTXOR.cpp).

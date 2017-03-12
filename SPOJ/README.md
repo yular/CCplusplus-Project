@@ -3,7 +3,7 @@
 <hr>
 
 ### Number of Solved Questions: 
-280
+281
 
 <hr>
 
@@ -89,3 +89,4 @@
 * Simplest Pattern Search: [Problem](http://www.spoj.com/problems/STRSRC/);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_20767_STRSRC.cpp).
 * Triangle Under a Circle: [Problem](http://www.spoj.com/problems/NAJTUC/);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_21570_NAJTUC.cpp).
 * BASE FIGHT: [Problem](http://www.spoj.com/problems/BASS/);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_21598_BASS.cpp).
+* Connectivity: [Problem](http://www.spoj.com/problems/GRACON/);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_20340_GRACON.cpp).

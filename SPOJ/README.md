@@ -3,7 +3,7 @@
 <hr>
 
 ### Number of Solved Questions: 
-284
+285
 
 <hr>
 
@@ -93,3 +93,4 @@
 * Separate the Number: [Problem](http://www.spoj.com/problems/KAUSH/);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_19598_KAUSH.cpp).
 * Odd: [Problem](http://www.spoj.com/problems/ODDCOUNT/);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_18643_ODDCOUNT.cpp).
 * Test Xor: [Problem](http://www.spoj.com/problems/TESTXOR/);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_17823_TESTXOR.cpp).
+* Anubis wants to know how many: [Problem](http://www.spoj.com/problems/PR003001/);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_17244_PR003001.cpp).

@@ -3,7 +3,7 @@
 <hr>
 
 ### Number of Solved Questions: 
-285
+289
 
 <hr>
 
@@ -94,3 +94,7 @@
 * Odd: [Problem](http://www.spoj.com/problems/ODDCOUNT/);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_18643_ODDCOUNT.cpp).
 * Test Xor: [Problem](http://www.spoj.com/problems/TESTXOR/);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_17823_TESTXOR.cpp).
 * Anubis wants to know how many: [Problem](http://www.spoj.com/problems/PR003001/);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_17244_PR003001.cpp).
+* Creativity: [Problem](http://www.spoj.com/problems/CREATE/);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_16247_CREATE.cpp).
+* Test Binary to Hexadecimal Converting: [Problem](http://www.spoj.com/problems/TESTCON0/);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_17831_TESTCON0.cpp).
+* Elections: [Problem](http://www.spoj.com/problems/TAP2013B/);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_16276_TAP2013B.cpp).
+* UNIQUE ALPHABETS: [Problem](http://www.spoj.com/problems/UNIQCHAR/);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_15971_UNIQCHAR.cpp).

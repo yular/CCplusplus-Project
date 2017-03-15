@@ -3,7 +3,7 @@
 <hr>
 
 ### Number of Solved Questions: 
-289
+293
 
 <hr>
 
@@ -98,3 +98,7 @@
 * Test Binary to Hexadecimal Converting: [Problem](http://www.spoj.com/problems/TESTCON0/);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_17831_TESTCON0.cpp).
 * Elections: [Problem](http://www.spoj.com/problems/TAP2013B/);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_16276_TAP2013B.cpp).
 * UNIQUE ALPHABETS: [Problem](http://www.spoj.com/problems/UNIQCHAR/);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_15971_UNIQCHAR.cpp).
+* Sieve of Eratosthenes: [Problem](http://www.spoj.com/problems/PRIMEN/);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_15978_PRIMEN.cpp).
+* Kth Largest Candy Packet: [Problem](http://www.spoj.com/problems/KLARGE/);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_15751_KLARGE.cpp).
+* Help the Librarian of ISM 200 Points: [Problem](http://www.spoj.com/problems/AKVMSFT1/);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_15828_AKVMSFT1.cpp).
+* Sieve of Eratosthenes: [Problem](http://www.spoj.com/problems/PRIMEN1/);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_15985_PRIMEN1.cpp).

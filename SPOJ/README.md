@@ -3,7 +3,7 @@
 <hr>
 
 ### Number of Solved Questions: 
-293
+296
 
 <hr>
 
@@ -96,9 +96,13 @@
 * Anubis wants to know how many: [Problem](http://www.spoj.com/problems/PR003001/);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_17244_PR003001.cpp).
 * Creativity: [Problem](http://www.spoj.com/problems/CREATE/);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_16247_CREATE.cpp).
 * Test Binary to Hexadecimal Converting: [Problem](http://www.spoj.com/problems/TESTCON0/);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_17831_TESTCON0.cpp).
+* Digit Dilemma: [Problem](http://www.spoj.com/problems/DIGITD/);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_15299_DIGITD.cpp).
+* Number Game: [Problem](http://www.spoj.com/problems/NUMBERG/);        [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_15301_NUMBERG.cpp).
+* Nabid Loves Palindromic String: [Problem](http://www.spoj.com/problems/PALINS);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_15300_PALINS.cpp).
 * Elections: [Problem](http://www.spoj.com/problems/TAP2013B/);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_16276_TAP2013B.cpp).
 * UNIQUE ALPHABETS: [Problem](http://www.spoj.com/problems/UNIQCHAR/);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_15971_UNIQCHAR.cpp).
 * Sieve of Eratosthenes: [Problem](http://www.spoj.com/problems/PRIMEN/);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_15978_PRIMEN.cpp).
 * Kth Largest Candy Packet: [Problem](http://www.spoj.com/problems/KLARGE/);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_15751_KLARGE.cpp).
 * Help the Librarian of ISM 200 Points: [Problem](http://www.spoj.com/problems/AKVMSFT1/);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_15828_AKVMSFT1.cpp).
 * Sieve of Eratosthenes: [Problem](http://www.spoj.com/problems/PRIMEN1/);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_15985_PRIMEN1.cpp).
+* Make it Simple: [Problem](http://www.spoj.com/problems/SIMPLE);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_14931_SIMPLE.cpp).

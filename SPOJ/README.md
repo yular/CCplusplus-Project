@@ -3,7 +3,7 @@
 <hr>
 
 ### Number of Solved Questions: 
-297
+301
 
 <hr>
 
@@ -106,3 +106,7 @@
 * Help the Librarian of ISM 200 Points: [Problem](http://www.spoj.com/problems/AKVMSFT1/);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_15828_AKVMSFT1.cpp).
 * Sieve of Eratosthenes: [Problem](http://www.spoj.com/problems/PRIMEN1/);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_15985_PRIMEN1.cpp).
 * Make it Simple: [Problem](http://www.spoj.com/problems/SIMPLE);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_14931_SIMPLE.cpp).
+* Required - BYU Box: [Problem](http://www.spoj.com/problems/BYUBOX/);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_14025_BYUBOX.cpp).
+* Day of Pay: [Problem](http://www.spoj.com/problems/DAYOFPAY/);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_14014_DAYOFPAY.cpp).
+* Good Arrays: [Problem](http://www.spoj.com/problems/PUCMM001/);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_14087_PUCMM001.cpp).
+* Factorial Sum: [Problem](http://www.spoj.com/problems/NSITACMB/);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_14119_NSITACMB.cpp).

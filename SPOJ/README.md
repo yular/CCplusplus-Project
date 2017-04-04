@@ -110,3 +110,4 @@
 * Day of Pay: [Problem](http://www.spoj.com/problems/DAYOFPAY/);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_14014_DAYOFPAY.cpp).
 * Good Arrays: [Problem](http://www.spoj.com/problems/PUCMM001/);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_14087_PUCMM001.cpp).
 * Factorial Sum: [Problem](http://www.spoj.com/problems/NSITACMB/);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_14119_NSITACMB.cpp).
+* Permutations: [Problem](http://www.spoj.com/problems/PERMUT1/);       [Code](https://github.com/yular/CCplusplus-Project/blob/master/SPOJ/spoj_64_PERMUT1.cpp).

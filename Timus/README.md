@@ -3,6 +3,10 @@ To view the idea of solution, please check this website: http://yular.github.io/
 ### Data Structure 
 * Distance in the tree: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1471);  [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1471_distanceinthetree.cpp).
 
+### Geometry
+* Ball in a Dream: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1192);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1192_ballinadream.cpp).
+* Median on the Plane: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1207);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1207_medianontheplane.cpp).
+
 ### Graph
 * Black Spot: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1934);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1934_blackspot.cpp).
  

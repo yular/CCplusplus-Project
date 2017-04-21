@@ -16,3 +16,7 @@ To view the idea of solution, please check this website: http://yular.github.io/
 ### Beginners
 * Mathematicians and Berries: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=2001);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_2001_mathematiciansandberries.cpp).
 * Scholarship: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=2056);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_2056_scholarship.cpp).
+
+### Implementation
+* Teamwork :[Problem](http://acm.timus.ru/problem.aspx?space=1&num=1581);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1581_teamwork.cpp).
+* Test Task: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=2002);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_2002_testtask.cpp).

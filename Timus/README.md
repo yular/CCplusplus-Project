@@ -27,3 +27,4 @@ To view the idea of solution, please check this website: http://yular.github.io/
 
 ### Math
 * Another Dress Rehearsal: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=2035);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_2035_anotherdressrehearsal.cpp).
+* Handshakes: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1194);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1194_handshakes.cpp).

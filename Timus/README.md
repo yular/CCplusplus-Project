@@ -20,6 +20,7 @@ To view the idea of solution, please check this website: http://yular.github.io/
 ### Implementation
 * Teamwork:[Problem](http://acm.timus.ru/problem.aspx?space=1&num=1581);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1581_teamwork.cpp).
 * Test Task: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=2002);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_2002_testtask.cpp).
+* Easy Hack: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1404);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1404_easyhack.cpp).
 * Overturned Numbers: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=2031);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_2031_overturnednumbers.cpp).
 
 ### Brute Force

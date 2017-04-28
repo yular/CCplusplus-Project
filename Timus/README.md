@@ -20,6 +20,8 @@ To view the idea of solution, please check this website: http://yular.github.io/
 ### Implementation
 * Teamwork:[Problem](http://acm.timus.ru/problem.aspx?space=1&num=1581);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1581_teamwork.cpp).
 * Test Task: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=2002);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_2002_testtask.cpp).
+* 1D Maze: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1642);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1642_1dmaze.cpp).
+* Sabotage: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1290);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1290_sabotage.cpp).
 * Easy Hack: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1404);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1404_easyhack.cpp).
 * Overturned Numbers: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=2031);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_2031_overturnednumbers.cpp).
 
@@ -29,3 +31,4 @@ To view the idea of solution, please check this website: http://yular.github.io/
 ### Math
 * Another Dress Rehearsal: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=2035);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_2035_anotherdressrehearsal.cpp).
 * Handshakes: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1194);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1194_handshakes.cpp).
+* Sum of Sequential Numbers: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1120);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1120_sumofsequentialnumbers.cpp).

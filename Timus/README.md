@@ -31,4 +31,7 @@ To view the idea of solution, please check this website: http://yular.github.io/
 ### Math
 * Another Dress Rehearsal: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=2035);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_2035_anotherdressrehearsal.cpp).
 * Handshakes: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1194);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1194_handshakes.cpp).
+* Amusement Park: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1796);  [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1796_amusementpark.cpp).
+* Line Fighting: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=2025);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_2025_linefighting.cpp).
+* A Whole Lot of Walnuts: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1644);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1644_awholelotofwalnuts.cpp).
 * Sum of Sequential Numbers: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1120);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1120_sumofsequentialnumbers.cpp).

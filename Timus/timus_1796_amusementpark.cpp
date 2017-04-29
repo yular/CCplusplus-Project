@@ -1,8 +1,8 @@
 /*
 *
 * Tag: Math
-* Time: O(k)
-* Space: O(k)
+* Time: O(1)
+* Space: O(1)
 */
 #include <iostream>
 #include <cstdio>
@@ -23,33 +23,35 @@
 #include <set>
 using namespace std;
 const int N = 200;
-const int M = 10300;
+const int M = 100300;
 const long long MOD = 495;
 const double PI = acos(-1.0);
 const double DOUBLEMAX = 10000000001;
 const double eps = 1e-10;
 const int MAX_VAL = 800*1000;
-int arr[M], n, k;
+int note[6]={10, 50, 100, 500, 1000, 5000}, p;
+int arr[N], ansarr[M];
 
 int main(){
-    int T;
-    scanf("%d",&T);
-    while (T --) {
-        scanf("%d%d",&n,&k);
-        int m = n/k, p = n%k;
-        long long ans = 0;
-        for (int i = 0; i < k; ++ i) {
-            arr[i] = m;
-            if (i < p) {
-                ++ arr[i];
-            }
+    int sum = 0, t = 0;
+    for (int i = 0; i < 6; ++ i) {
+        scanf("%d",&arr[i]);
+        sum += arr[i]*note[i];
+        if (t == 0 && arr[i] > 0) {
+            t = note[i];
         }
-        int sum = 0;
-        for (int i = 0; i < k; ++ i) {
-            sum += arr[i];
-            ans += arr[i]*(n - sum);
-        }
-        printf("%lld\n",ans);
     }
+    scanf("%d",&p);
+    int idx = 0;
+    for (int i = sum - t + 1; i <= sum; ++ i) {
+        if (i%p == 0) {
+            ansarr[idx ++] = i/p;
+        }
+    }
+    printf("%d\n",idx);
+    for (int i = 0; i < idx; ++ i) {
+        printf("%d ",ansarr[i]);
+    }
+    puts("");
     return 0;
 }

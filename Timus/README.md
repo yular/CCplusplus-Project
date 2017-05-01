@@ -2,6 +2,7 @@ To view the idea of solution, please check this website: http://yular.github.io/
 
 ### Data Structure 
 * Distance in the tree: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1471);  [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1471_distanceinthetree.cpp).
+* Intervals: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1330);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1330_intervals.cpp).
 
 ### Geometry
 * Ball in a Dream: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1192);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1192_ballinadream.cpp).
@@ -11,6 +12,7 @@ To view the idea of solution, please check this website: http://yular.github.io/
 * Black Spot: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1934);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1934_blackspot.cpp).
  
 ### Dynamic Programming
+* Hyperjump: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1296);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1296_hyperjump.cpp).
 * Bottle Taps: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1326);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1326_bottletaps.cpp).
 
 ### Beginners
@@ -24,6 +26,7 @@ To view the idea of solution, please check this website: http://yular.github.io/
 * Sabotage: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1290);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1290_sabotage.cpp).
 * Wedding Dinner: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=2100);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_2100_weddingdinner.cpp).
 * Easy Hack: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1404);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1404_easyhack.cpp).
+* Alchemy: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1573);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1573_alchemy.cpp).
 * Overturned Numbers: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=2031);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_2031_overturnednumbers.cpp).
 * Strange Procedure: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1214);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1214_strangeprocedure.cpp).
 
@@ -37,6 +40,7 @@ To view the idea of solution, please check this website: http://yular.github.io/
 * Handshakes: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1194);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1194_handshakes.cpp).
 * Amusement Park: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1796);  [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1796_amusementpark.cpp).
 * Copying: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1131);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1131_copying.cpp).
+* Divorce of the Seven Dwarfs: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1243);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1243_divorceofthesevendwarfs.cpp).
 * Line Fighting: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=2025);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_2025_linefighting.cpp).
 * A Whole Lot of Walnuts: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1644);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1644_awholelotofwalnuts.cpp).
 * Sum of Sequential Numbers: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1120);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1120_sumofsequentialnumbers.cpp).

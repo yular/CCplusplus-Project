@@ -29,13 +29,17 @@ To view the idea of solution, please check this website: http://yular.github.io/
 * Alchemy: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1573);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1573_alchemy.cpp).
 * Overturned Numbers: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=2031);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_2031_overturnednumbers.cpp).
 * Strange Procedure: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1214);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1214_strangeprocedure.cpp).
+* The battle near the swamp: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1991);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1991_thebattleneartheswamp.cpp).
 
 ### Brute Force
 * Taxi for Programmers: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=2005);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_2005_taxiforprogrammers.cpp).
 * Sandro's Biography: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1786);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1786_sandrosbiography.cpp).
 * Devices: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=2033);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_2033_devices.cpp).
+* Sasha the Young Grandmaster: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=2010);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_2010_sashatheyounggrandmaster.cpp).
+* Cipher Grille: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1712);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1712_ciphergrille.cpp).
 
 ### Math
+* Domino Dots: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1502);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1502_dominodots.cpp).
 * Another Dress Rehearsal: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=2035);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_2035_anotherdressrehearsal.cpp).
 * Handshakes: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1194);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1194_handshakes.cpp).
 * Amusement Park: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1796);  [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1796_amusementpark.cpp).

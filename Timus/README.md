@@ -39,7 +39,11 @@ To view the idea of solution, please check this website: http://yular.github.io/
 * Cipher Grille: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1712);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1712_ciphergrille.cpp).
 
 ### Math
+* Sum of Digits of the Sum of Numbers: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1206);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1206_sumofdigitsofthesumofnumbers.java).
+* Sold Out: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1725);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1725_soldout.cpp).
+* Problem of Ben Betsalel: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1336);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1336_problemofbenbetsalel.cpp).
 * Domino Dots: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1502);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1502_dominodots.cpp).
+* City Blocks: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1139);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1139_cityblocks.cpp).
 * Another Dress Rehearsal: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=2035);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_2035_anotherdressrehearsal.cpp).
 * Handshakes: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1194);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1194_handshakes.cpp).
 * Amusement Park: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1796);  [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1796_amusementpark.cpp).

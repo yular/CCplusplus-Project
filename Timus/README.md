@@ -15,11 +15,15 @@ To view the idea of solution, please check this website: http://yular.github.io/
 * Hyperjump: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1296);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1296_hyperjump.cpp).
 * Bottle Taps: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1326);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1326_bottletaps.cpp).
 
+### Number Theory
+* Something Easier: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1356);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1356_somethingeasier.cpp).
+
 ### Beginners
 * Mathematicians and Berries: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=2001);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_2001_mathematiciansandberries.cpp).
 * Scholarship: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=2056);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_2056_scholarship.cpp).
 
 ### Implementation
+* Magician: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1370);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1370_magician.cpp).
 * Teamwork:[Problem](http://acm.timus.ru/problem.aspx?space=1&num=1581);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1581_teamwork.cpp).
 * Test Task: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=2002);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_2002_testtask.cpp).
 * 1D Maze: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1642);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1642_1dmaze.cpp).
@@ -27,6 +31,7 @@ To view the idea of solution, please check this website: http://yular.github.io/
 * Wedding Dinner: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=2100);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_2100_weddingdinner.cpp).
 * Easy Hack: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1404);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1404_easyhack.cpp).
 * Alchemy: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1573);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1573_alchemy.cpp).
+* Sorting Hat: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1446);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1446_sortinghat.cpp).
 * Overturned Numbers: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=2031);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_2031_overturnednumbers.cpp).
 * Strange Procedure: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1214);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1214_strangeprocedure.cpp).
 * The battle near the swamp: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1991);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1991_thebattleneartheswamp.cpp).

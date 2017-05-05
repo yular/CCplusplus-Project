@@ -23,6 +23,8 @@ To view the idea of solution, please check this website: http://yular.github.io/
 * Scholarship: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=2056);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_2056_scholarship.cpp).
 
 ### Implementation
+* esreveR redrO: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1226);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1226_esreverredro.cpp).
+* Anindilyakwa: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1777);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1777_anindilyakwa.cpp).
 * Magician: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1370);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1370_magician.cpp).
 * Teamwork:[Problem](http://acm.timus.ru/problem.aspx?space=1&num=1581);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1581_teamwork.cpp).
 * Test Task: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=2002);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_2002_testtask.cpp).
@@ -37,6 +39,7 @@ To view the idea of solution, please check this website: http://yular.github.io/
 * The battle near the swamp: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1991);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1991_thebattleneartheswamp.cpp).
 
 ### Brute Force
+* Code Names: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1711);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1711_codenames.cpp).
 * Taxi for Programmers: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=2005);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_2005_taxiforprogrammers.cpp).
 * Sandro's Biography: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1786);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1786_sandrosbiography.cpp).
 * Devices: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=2033);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_2033_devices.cpp).
@@ -44,6 +47,7 @@ To view the idea of solution, please check this website: http://yular.github.io/
 * Cipher Grille: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1712);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1712_ciphergrille.cpp).
 
 ### Math
+* Array: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1228);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1228_array.cpp).
 * Sum of Digits of the Sum of Numbers: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1206);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1206_sumofdigitsofthesumofnumbers.java).
 * Sold Out: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1725);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1725_soldout.cpp).
 * Problem of Ben Betsalel: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1336);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1336_problemofbenbetsalel.cpp).

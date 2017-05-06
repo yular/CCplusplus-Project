@@ -39,6 +39,8 @@ To view the idea of solution, please check this website: http://yular.github.io/
 * The battle near the swamp: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1991);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1991_thebattleneartheswamp.cpp).
 
 ### Brute Force
+* On the Benefits of Umbrellas: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1788);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1788_onthebenefitsofumbrellas.cpp).
+* Tram Forum: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1612);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1612_tramforum.cpp).
 * Code Names: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1711);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1711_codenames.cpp).
 * Taxi for Programmers: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=2005);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_2005_taxiforprogrammers.cpp).
 * Sandro's Biography: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1786);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1786_sandrosbiography.cpp).
@@ -47,6 +49,7 @@ To view the idea of solution, please check this website: http://yular.github.io/
 * Cipher Grille: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1712);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1712_ciphergrille.cpp).
 
 ### Math
+* Chernobyl’ Eagles: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1222);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1222_chernobyleagles.java).
 * Array: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1228);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1228_array.cpp).
 * Sum of Digits of the Sum of Numbers: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1206);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1206_sumofdigitsofthesumofnumbers.java).
 * Sold Out: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1725);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1725_soldout.cpp).

@@ -27,6 +27,7 @@ To view the idea of solution, please check this website: http://yular.github.io/
 * Scholarship: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=2056);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_2056_scholarship.cpp).
 
 ### Implementation
+* Record of the Attack at the Orbit: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1944);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1944_recordoftheattackattheorbit.cpp).
 * esreveR redrO: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1226);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1226_esreverredro.cpp).
 * Anindilyakwa: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1777);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1777_anindilyakwa.cpp).
 * Magician: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1370);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1370_magician.cpp).

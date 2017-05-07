@@ -15,6 +15,9 @@ To view the idea of solution, please check this website: http://yular.github.io/
 * Hyperjump: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1296);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1296_hyperjump.cpp).
 * Bottle Taps: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1326);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1326_bottletaps.cpp).
 
+### Construction
+* Different Sums: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=2065);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_2065_differentsums.cpp).
+
 ### Number Theory
 * Something Easier: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1356);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1356_somethingeasier.cpp).
 

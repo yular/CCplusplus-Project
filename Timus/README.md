@@ -20,6 +20,7 @@ To view the idea of solution, please check this website: http://yular.github.io/
 
 ### Number Theory
 * Something Easier: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1356);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1356_somethingeasier.cpp).
+* The Most Complex Number: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1748);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1748_themostcomplexnumber.cpp).
 
 ### Beginners
 * Mathematicians and Berries: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=2001);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_2001_mathematiciansandberries.cpp).

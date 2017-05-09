@@ -5,6 +5,7 @@ To view the idea of solution, please check this website: http://yular.github.io/
 * Intervals: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1330);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1330_intervals.cpp).
 
 ### Geometry
+* Akbardin’s Roads: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1178);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1178_akbardinsroads.cpp).
 * Ball in a Dream: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1192);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1192_ballinadream.cpp).
 * Median on the Plane: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1207);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1207_medianontheplane.cpp).
 
@@ -12,6 +13,7 @@ To view the idea of solution, please check this website: http://yular.github.io/
 * Black Spot: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1934);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1934_blackspot.cpp).
  
 ### Dynamic Programming
+* Relations: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1142);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1142_relations.cpp).
 * Hyperjump: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1296);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1296_hyperjump.cpp).
 * Bottle Taps: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1326);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1326_bottletaps.cpp).
 
@@ -54,6 +56,7 @@ To view the idea of solution, please check this website: http://yular.github.io/
 * Cipher Grille: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1712);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1712_ciphergrille.cpp).
 
 ### Math
+* Dummy Guy: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1984);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1984_dummyguy.cpp).
 * Chernobyl’ Eagles: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1222);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1222_chernobyleagles.java).
 * Array: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1228);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1228_array.cpp).
 * Sum of Digits of the Sum of Numbers: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1206);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1206_sumofdigitsofthesumofnumbers.java).

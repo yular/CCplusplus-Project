@@ -13,6 +13,7 @@ To view the idea of solution, please check this website: http://yular.github.io/
 * Black Spot: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1934);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1934_blackspot.cpp).
  
 ### Dynamic Programming
+* Boxes: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1114);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1114_boxes.cpp).
 * Relations: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1142);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1142_relations.cpp).
 * Hyperjump: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1296);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1296_hyperjump.cpp).
 * Bottle Taps: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1326);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1326_bottletaps.cpp).
@@ -44,6 +45,9 @@ To view the idea of solution, please check this website: http://yular.github.io/
 * Overturned Numbers: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=2031);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_2031_overturnednumbers.cpp).
 * Strange Procedure: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1214);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1214_strangeprocedure.cpp).
 * The battle near the swamp: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1991);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1991_thebattleneartheswamp.cpp).
+
+### Search
+* Fibonacci Sequence: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1133);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1133_fibonaccisequence.cpp).
 
 ### Brute Force
 * On the Benefits of Umbrellas: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1788);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1788_onthebenefitsofumbrellas.cpp).

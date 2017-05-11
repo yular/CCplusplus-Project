@@ -22,6 +22,7 @@ To view the idea of solution, please check this website: http://yular.github.io/
 * Different Sums: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=2065);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_2065_differentsums.cpp).
 
 ### Number Theory
+* Combinations: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1055);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1055_combinations.cpp).
 * Something Easier: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1356);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1356_somethingeasier.cpp).
 * The Most Complex Number: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1748);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1748_themostcomplexnumber.cpp).
 
@@ -58,8 +59,10 @@ To view the idea of solution, please check this website: http://yular.github.io/
 * Devices: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=2033);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_2033_devices.cpp).
 * Sasha the Young Grandmaster: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=2010);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_2010_sashatheyounggrandmaster.cpp).
 * Cipher Grille: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1712);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1712_ciphergrille.cpp).
+* Sacrament of the Sum: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1021);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1021_sacramentofthesum.cpp).
 
 ### Math
+* Simple Calculations: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1047);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1047_simplecalculations.cpp).
 * Dummy Guy: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1984);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1984_dummyguy.cpp).
 * Chernobyl’ Eagles: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1222);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1222_chernobyleagles.java).
 * Array: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1228);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1228_array.cpp).

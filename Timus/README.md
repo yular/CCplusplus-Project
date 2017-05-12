@@ -1,8 +1,9 @@
 To view the idea of solution, please check this website: http://yular.github.io/
 
-### Data Structure 
-* Distance in the tree: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1471);  [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1471_distanceinthetree.cpp).
+### Data Structure
+* Questions and Answers: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1026);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1026_questionsandanswers.cpp).
 * Intervals: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1330);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1330_intervals.cpp).
+* Distance in the tree: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1471);  [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1471_distanceinthetree.cpp).
 
 ### Geometry
 * Akbardin’s Roads: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1178);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1178_akbardinsroads.cpp).
@@ -49,6 +50,11 @@ To view the idea of solution, please check this website: http://yular.github.io/
 
 ### Search
 * Fibonacci Sequence: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1133);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1133_fibonaccisequence.cpp).
+* Far Away Kingdom's Army: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1656);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1656_farawaykingdomsarmy.cpp).
+
+### Greedy
+* Superhero Team: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1922);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1922_superheroteam.cpp).
+* Chinese Dialects: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1964);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1964_chinesedialects.cpp).
 
 ### Brute Force
 * On the Benefits of Umbrellas: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1788);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1788_onthebenefitsofumbrellas.cpp).

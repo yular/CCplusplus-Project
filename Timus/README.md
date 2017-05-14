@@ -73,6 +73,7 @@ To view the idea of solution, please check this website: http://yular.github.io/
 * Cashmaster: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1515);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1515_cashmaster.cpp).
 * Simple Calculations: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1047);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1047_simplecalculations.cpp).
 * Dummy Guy: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1984);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1984_dummyguy.cpp).
+* White Thesis: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1335);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1335_whitethesis.cpp).
 * Dwarfs: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1283);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1283_dwarfs.cpp).
 * Graveyard of the Cosa Nostra: [Problelm](http://acm.timus.ru/problem.aspx?space=1&num=1255);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1255_graveyardofthecosanostra.cpp).
 * Chernobyl’ Eagles: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1222);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1222_chernobyleagles.java).

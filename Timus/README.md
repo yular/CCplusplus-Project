@@ -32,6 +32,7 @@ To view the idea of solution, please check this website: http://yular.github.io/
 * Scholarship: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=2056);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_2056_scholarship.cpp).
 
 ### Implementation
+* Biathlon: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1821);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1812_biathlon.cpp).
 * Record of the Attack at the Orbit: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1944);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1944_recordoftheattackattheorbit.cpp).
 * esreveR redrO: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1226);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1226_esreverredro.cpp).
 * Anindilyakwa: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1777);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1777_anindilyakwa.cpp).
@@ -68,6 +69,7 @@ To view the idea of solution, please check this website: http://yular.github.io/
 * Sacrament of the Sum: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1021);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1021_sacramentofthesum.cpp).
 
 ### Math
+* Cashmaster: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1515);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1515_cashmaster.cpp).
 * Simple Calculations: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1047);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1047_simplecalculations.cpp).
 * Dummy Guy: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1984);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1984_dummyguy.cpp).
 * Dwarfs: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1283);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1283_dwarfs.cpp).

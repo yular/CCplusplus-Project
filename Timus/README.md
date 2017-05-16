@@ -16,6 +16,7 @@ To view the idea of solution, please check this website: http://yular.github.io/
  
 ### Dynamic Programming
 * Boxes: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1114);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1114_boxes.cpp).
+* Integer Percentage: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1138);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1138_integerpercentage.cpp).
 * Relations: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1142);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1142_relations.cpp).
 * Hyperjump: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1296);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1296_hyperjump.cpp).
 * Bottle Taps: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1326);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1326_bottletaps.cpp).

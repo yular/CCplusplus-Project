@@ -18,6 +18,7 @@ To view the idea of solution, please check this website: http://yular.github.io/
 * Boxes: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1114);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1114_boxes.cpp).
 * Integer Percentage: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1138);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1138_integerpercentage.cpp).
 * Relations: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1142);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1142_relations.cpp).
+* Check a Sequence: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1247);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1247_checkasequence.cpp).
 * Hyperjump: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1296);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1296_hyperjump.cpp).
 * Bottle Taps: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1326);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1326_bottletaps.cpp).
 
@@ -54,6 +55,7 @@ To view the idea of solution, please check this website: http://yular.github.io/
 
 ### Search
 * Fibonacci Sequence: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1133);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1133_fibonaccisequence.cpp).
+* Supercomputer: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1153);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1153_supercomputer.java).
 * Far Away Kingdom's Army: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1656);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1656_farawaykingdomsarmy.cpp).
 
 ### Greedy

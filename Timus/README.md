@@ -35,6 +35,7 @@ To view the idea of solution, please check this website: http://yular.github.io/
 * Scholarship: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=2056);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_2056_scholarship.cpp).
 
 ### Implementation
+* Excellent Team: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1931);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1931_excellentteam.cpp).
 * Columns of Numbers: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1506);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1506_columnsofnumbers.cpp).
 * Biathlon: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1821);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1812_biathlon.cpp).
 * Record of the Attack at the Orbit: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1944);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1944_recordoftheattackattheorbit.cpp).

@@ -78,6 +78,7 @@ To view the idea of solution, please check this website: http://yular.github.io/
 
 ### Math
 * Jeep: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1113);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1113_jeep.cpp).
+* Bald Spot Revisited: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1355);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1355_baldspotrevisited.cpp).
 * Passenger Comfort: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1885);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1885_passengercomfort.cpp).
 * Fire Circle: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1490);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1490_firecircle.cpp).
 * Cashmaster: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1515);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1515_cashmaster.cpp).

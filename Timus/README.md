@@ -56,6 +56,7 @@ To view the idea of solution, please check this website: http://yular.github.io/
 * The battle near the swamp: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1991);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1991_thebattleneartheswamp.cpp).
 
 ### Search
+* Ships: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1115);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1115_ships.cpp).
 * Fibonacci Sequence: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1133);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1133_fibonaccisequence.cpp).
 * Supercomputer: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1153);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1153_supercomputer.java).
 * Knight: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1298);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1298_knight.cpp).

@@ -1,7 +1,7 @@
 To view the idea of solution, please check this website: http://yular.github.io/
 
 ### Data Structure
-* Questions and Answers: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1026);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1026_questionsandanswers.cpp).
+* Questions and Answers: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1026);    [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1026_questionsandanswers.cpp).
 * Cockroaches: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1213);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1213_cockroaches.cpp).
 * Intervals: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1330);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1330_intervals.cpp).
 * Distance in the tree: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1471);  [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1471_distanceinthetree.cpp).

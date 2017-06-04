@@ -1,4 +1,4 @@
-To view the idea of solution, please check this website: http://yular.github.io/
+To view the idea of solution, please check this website: http://yular.github.io/ 
 
 ### Data Structure
 * Questions and Answers: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1026);    [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1026_questionsandanswers.cpp).

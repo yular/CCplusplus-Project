@@ -1,4 +1,4 @@
-public class Floyd{
+public class Floyd {
 private:
   int numNode = 1000;
   vector<vector<int> > graph;

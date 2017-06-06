@@ -2,7 +2,7 @@ public class Manacher{
 public:
   /*
   *
-  * The O(n) algorithm to find the index of center of longest palindrome substring of the given string
+  * The O(n) algorithm to find the index of center of longest palindrome substring of the given string.
   * p[i] is the half length of palindrome string whose center index is i.
   *
   */

@@ -8,7 +8,8 @@ To view the idea of solution, please check this website: http://yular.github.io/
 
 ### Geometry
 * Akbardin’s Roads: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1178);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1178_akbardinsroads.cpp).
-* Ball in a Dream: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1192);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1192_ballinadream.cpp).
+* Wall: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1185);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1185_wall.cpp).
+* Ball in a Dream: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1192);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1192_ballinadream.cpp).
 * Median on the Plane: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1207);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1207_medianontheplane.cpp).
 
 ### Graph 

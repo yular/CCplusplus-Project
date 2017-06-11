@@ -28,8 +28,9 @@ To view the idea of solution, please check this website: http://yular.github.io/
 * Different Sums: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=2065);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_2065_differentsums.cpp).
 
 ### Number Theory
-* Combinations: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1055);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1055_combinations.cpp).
-* Something Easier: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1356);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1356_somethingeasier.cpp).
+* Combinations: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1055);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1055_combinations.cpp).
+* RSA Attack: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1141);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1141_rsaattack.cpp).
+* Something Easier: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1356);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1356_somethingeasier.cpp).
 * The Most Complex Number: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1748);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1748_themostcomplexnumber.cpp).
 
 ### Beginners

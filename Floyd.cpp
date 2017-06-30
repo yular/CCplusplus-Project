@@ -1,6 +1,6 @@
 public class Floyd {
 private:
-  int numNode = 1100;
+  int numNode =  1100;
   vector<vector<int> > graph;
 public:
   Floyd(int n){

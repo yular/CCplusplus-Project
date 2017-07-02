@@ -39,14 +39,15 @@ To view the idea of solution, please check this website: http://yular.github.io/
 
 ### Implementation
 * Queue at the Exam: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1193);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1193_queueattheexam.cpp).
+* esreveR redrO: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1226);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1226_esreverredro.cpp).
+* Magician: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1370);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1370_magician.cpp).
 * Diamonds: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1433);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1433_diamonds.cpp).
 * Columns of Numbers: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1506);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1506_columnsofnumbers.cpp).
+* Anindilyakwa: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1777);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1777_anindilyakwa.cpp).
 * Biathlon: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1821);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1812_biathlon.cpp).
 * Excellent Team: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1931);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1931_excellentteam.cpp).
 * Record of the Attack at the Orbit: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1944);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1944_recordoftheattackattheorbit.cpp).
-* esreveR redrO: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1226);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1226_esreverredro.cpp).
-* Anindilyakwa: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1777);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1777_anindilyakwa.cpp).
-* Magician: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1370);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1370_magician.cpp).
+* Natural Selection: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=2091);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_2091_naturalselection.cpp).
 * Team.Gov! [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1688);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1688_teamgov.cpp).
 * Teamwork:[Problem](http://acm.timus.ru/problem.aspx?space=1&num=1581);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1581_teamwork.cpp).
 * Test Task: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=2002);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_2002_testtask.cpp).

@@ -15,6 +15,9 @@ To view the idea of solution, please check this website: http://yular.github.io/
 ### Graph 
 * Graph Decomposition: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1320);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1320_graphdecomposition.cpp).
 * Black Spot: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1934);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1934_blackspot.cpp).
+
+### Game
+* Game of Nuts: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=2068);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_2068_gameofnuts.cpp).
  
 ### Dynamic Programming
 * Boxes: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1114);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1114_boxes.cpp).

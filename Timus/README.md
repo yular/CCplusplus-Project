@@ -46,6 +46,7 @@ To view the idea of solution, please check this website: http://yular.github.io/
 * Magician: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1370);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1370_magician.cpp).
 * Diamonds: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1433);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1433_diamonds.cpp).
 * Columns of Numbers: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1506);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1506_columnsofnumbers.cpp).
+* Sumo Tournament: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1551);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1551_sumotournament.cpp).
 * Anindilyakwa: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1777);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1777_anindilyakwa.cpp).
 * Biathlon: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1821);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1812_biathlon.cpp).
 * Excellent Team: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1931);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1931_excellentteam.cpp).

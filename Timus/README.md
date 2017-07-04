@@ -69,6 +69,7 @@ To view the idea of solution, please check this website: http://yular.github.io/
 * Fibonacci Sequence: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1133);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1133_fibonaccisequence.cpp).
 * Supercomputer: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1153);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1153_supercomputer.java).
 * Knight: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1298);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1298_knight.cpp).
+* Erudite: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1603);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1603_erudite.cpp).
 * Far Away Kingdom's Army: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1656);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1656_farawaykingdomsarmy.cpp).
 
 ### Greedy

@@ -90,6 +90,8 @@ To view the idea of solution, please check this website: http://yular.github.io/
 
 ### Math
 * Jeep: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1113);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1113_jeep.cpp).
+* Sum of Sequential Numbers: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1120);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1120_sumofsequentialnumbers.cpp).
+* Crazy Notions: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1295);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1295_crazynotions.cpp).
 * Bald Spot Revisited: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1355);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1355_baldspotrevisited.cpp).
 * Passenger Comfort: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1885);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1885_passengercomfort.cpp).
 * Fire Circle: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1490);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1490_firecircle.cpp).
@@ -114,4 +116,3 @@ To view the idea of solution, please check this website: http://yular.github.io/
 * Divorce of the Seven Dwarfs: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1243);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1243_divorceofthesevendwarfs.cpp).
 * Line Fighting: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=2025);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_2025_linefighting.cpp).
 * A Whole Lot of Walnuts: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1644);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1644_awholelotofwalnuts.cpp).
-* Sum of Sequential Numbers: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1120);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1120_sumofsequentialnumbers.cpp).

@@ -47,14 +47,15 @@ To view the idea of solution, please check this website: http://yular.github.io/
 * Diamonds: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1433);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1433_diamonds.cpp).
 * Columns of Numbers: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1506);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1506_columnsofnumbers.cpp).
 * Sumo Tournament: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1551);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1551_sumotournament.cpp).
+* Teamwork:[Problem](http://acm.timus.ru/problem.aspx?space=1&num=1581);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1581_teamwork.cpp).
+* Team.Gov! [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1688);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1688_teamgov.cpp).
 * Anindilyakwa: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1777);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1777_anindilyakwa.cpp).
 * Biathlon: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1821);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1812_biathlon.cpp).
 * Excellent Team: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1931);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1931_excellentteam.cpp).
 * Record of the Attack at the Orbit: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1944);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1944_recordoftheattackattheorbit.cpp).
-* Natural Selection: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=2091);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_2091_naturalselection.cpp).
-* Team.Gov! [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1688);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1688_teamgov.cpp).
-* Teamwork:[Problem](http://acm.timus.ru/problem.aspx?space=1&num=1581);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1581_teamwork.cpp).
+* This cheeseburger you don't need: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1993);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1993_thischeeseburgeryoudontneed.cpp).
 * Test Task: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=2002);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_2002_testtask.cpp).
+* Natural Selection: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=2091);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_2091_naturalselection.cpp).
 * 1D Maze: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1642);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1642_1dmaze.cpp).
 * Sabotage: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1290);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1290_sabotage.cpp).
 * Wedding Dinner: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=2100);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_2100_weddingdinner.cpp).

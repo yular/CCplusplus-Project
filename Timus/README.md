@@ -73,6 +73,7 @@ To view the idea of solution, please check this website: http://yular.github.io/
 * Knight: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1298);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1298_knight.cpp).
 * Erudite: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1603);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1603_erudite.cpp).
 * Far Away Kingdom's Army: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1656);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1656_farawaykingdomsarmy.cpp).
+* Old Ural Legend: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1769);   [Code](ttps://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1769_oldurallegend.cpp).
 
 ### Greedy
 * Superhero Team: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1922);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1922_superheroteam.cpp).

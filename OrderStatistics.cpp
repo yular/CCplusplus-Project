@@ -7,7 +7,7 @@ public:
      * runtime: O(n)
      * space complexity: O(1)
      */
-    int kthLargestElement(int k, vector<int> nums) {
+    int kthLargestElement( int k, vector<int> nums ) {
         // write your code here
         int ans = 0;
         int n = nums.size() - 1, start = 0, end = nums.size() - 1;

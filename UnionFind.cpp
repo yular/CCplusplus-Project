@@ -1,4 +1,5 @@
-public class UnionFind{
+public class UnionFind {
+  
 public:
   UnionFind(int n){
     fa.resize(n);
@@ -28,6 +29,8 @@ public:
       fa[fa2] = fa1;
     }
   }
-private:
-vector<int> fa;
+  
+  private:
+    vector<int> fa;
+  
 }

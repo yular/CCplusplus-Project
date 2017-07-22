@@ -2,6 +2,7 @@ public class UnionFind {
   
 public:
   UnionFind( int n ){
+    
     fa.resize(n);
     for(int i = 0; i < n; ++ i)
       fa[i] = -1;

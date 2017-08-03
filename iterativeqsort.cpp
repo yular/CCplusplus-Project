@@ -1,7 +1,7 @@
 //Learned from Wikipedia. The Qsort without median-of-three optimization
 struct Range{
 	int start, end;
-	Range(int s=0, int e=0): start(s), end(e) {}
+	Range(int s = 0, int e = 0): start(s), end(e) {}
 };
 
 void qsort(vector<int> arr){

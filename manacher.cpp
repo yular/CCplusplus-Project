@@ -6,7 +6,7 @@ public:
   * p[i] is the half length of palindrome string whose center index is i.
   *
   */
-  int IdxofLongestPalindromeSubstr(string s){
+  int IdxofLongestPalindromeSubstr(string s) {
     int idx = 0, res = 0;
     int n = s.size();
     string s1;

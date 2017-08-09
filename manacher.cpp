@@ -10,7 +10,7 @@ public:
     int idx = 0, res = 0;
     int n = s.size();
     string s1;
-    s1.resize(2*n + 2);
+    s1.resize( 2*n + 2 );
     vector<int> p(2*n + 10, 0);
     s1[0] = '$';
     s1[1] = '#';

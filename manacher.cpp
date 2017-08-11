@@ -1,4 +1,4 @@
-public class Manacher {
+public class Manacher  {
 public:
   /*
   *

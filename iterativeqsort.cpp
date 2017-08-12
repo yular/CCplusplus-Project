@@ -4,7 +4,7 @@ struct Range{
 	Range(int s = 0, int e = 0): start(s), end(e) {}
 };
 
-void qsort(vector<int> arr){
+void qsort( vector<int> arr ){
 	if(arr.size() <= 0)
 		return ;
 	stack<Range> st;

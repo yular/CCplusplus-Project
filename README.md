@@ -1,4 +1,4 @@
 CC---for-Algorithms
 ===================
 
-Algorithms coded in CC++
+Algorithms coded in C or C++

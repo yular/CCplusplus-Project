@@ -9,7 +9,7 @@ void qsort( vector<int> arr ){
 		return ;
 	stack<Range> st;
 	st.push(Range(0,arr.size()-1);
-	while(!st.empty()){
+	while( !st.empty() ){
 		Range range = st.top();
 		st.pop();
 		int pivot = arr[range.end];

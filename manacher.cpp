@@ -18,7 +18,7 @@ public:
         s1[(i + 1)<<1] = s[i];
         s1[((i + 1)<<1) + 1] = '#';
     }
-    for(int id = 0, i = 1; i < s1.size(); ++ i){
+    for( int id = 0, i = 1; i < s1.size(); ++ i ){
         if(p[id] + id > i)
             p[i] = min(p[2*id - i], p[id] + id - i);
         else

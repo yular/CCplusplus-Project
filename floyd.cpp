@@ -4,7 +4,7 @@ private:
   vector<vector<int> > graph;
   
 public:
-  Floyd(int n){
+  Floyd( int n ){
     numNode = n;
     graph.resize(numNode);
     for(int i = 0; i < n; ++ i){

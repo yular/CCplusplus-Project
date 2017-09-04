@@ -6,8 +6,8 @@ private:
 public:
   Floyd( int n ){
     numNode = n;
-    graph.resize(numNode);
-    for(int i = 0; i < n; ++ i){
+    graph.resize( numNode );
+    for( int i = 0; i < n; ++ i ){
       vector<int> tmpgraph(n);
       graph[i] = tmpgraph;
     }

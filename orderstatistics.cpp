@@ -14,7 +14,7 @@ public:
         while(1){
             int pivot = nums[end];
             int tpos = start - 1;
-            for(int i = start; i < end; ++ i){
+            for( int i = start; i < end; ++ i ){
                 if(nums[i] < pivot){
                     swap(nums[i], nums[++tpos]);
                 }

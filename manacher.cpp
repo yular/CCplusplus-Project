@@ -14,7 +14,7 @@ public:
     vector<int> p( 2*n + 10, 0 );
     s1[0] = '$';
     s1[1] = '#';
-    for(int i = 0; i < n; ++ i){
+    for( int i = 0; i < n; ++ i ){
         s1[(i + 1)<<1] = s[i];
         s1[((i + 1)<<1) + 1] = '#';
     }

@@ -14,7 +14,7 @@ public:
   }
   
   void buildGraph(int m, bool isDirective){
-    for(int i = 0; i < m; ++ i){
+    for( int i = 0; i < m; ++ i ){
       int u, v, w;
       scanf("%d%d%d",&u,&v,&w);
       graph[u][v] = w;

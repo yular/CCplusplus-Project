@@ -78,6 +78,7 @@ To view the idea of solution, please check this website:  http://yular.github.io
 
 ### Greedy
 * Cards: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1134);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1134_cards.cpp).
+* Minefield: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1826);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1826_minefield.cpp).
 * Superhero Team: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1922);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1922_superheroteam.cpp).
 * Chinese Dialects: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1964);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1964_chinesedialects.cpp).
 

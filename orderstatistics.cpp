@@ -23,7 +23,7 @@ public:
             if(tpos == n - k){
                 ans = nums[tpos];
                 break;
-            }else if(tpos > n - k){
+            }else if( tpos > n - k ){
                 end = tpos - 1;
             }else{
                 start = tpos + 1;

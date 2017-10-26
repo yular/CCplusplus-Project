@@ -23,7 +23,7 @@ public:
             p[i] = min(p[2*id - i], p[id] + id - i);
         else
             p[i] = 1;
-        while(s1[p[i] + i] == s1[i - p[i]]) ++ p[i];
+        while( s1[p[i] + i] == s1[i - p[i]] ) ++ p[i];
         if(i + p[i] > id + p[id])
             id = i;
         if(res < p[i]){

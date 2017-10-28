@@ -25,7 +25,7 @@ public:
     if( fa[fa1] > fa[fa2] ){
       fa[fa1] = fa2;
       fa[fa2] = tmp;
-    }else{
+    } else {
       fa[fa1] = tmp;
       fa[fa2] = fa1;
     }

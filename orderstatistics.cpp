@@ -20,7 +20,7 @@ public:
                 }
             }
             swap(nums[++ tpos], nums[end]);
-            if(tpos == n - k){
+            if( tpos == n - k ){
                 ans = nums[tpos];
                 break;
             }else if( tpos > n - k ){

@@ -18,7 +18,7 @@ public:
       int u, v, w;
       scanf("%d%d%d",&u,&v,&w);
       graph[u][v] = w;
-      if(isDirective)
+      if( isDirective )
         graph[v][u] = w;
     }
   }

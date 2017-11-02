@@ -8,7 +8,7 @@ public:
     numNode = n;
     graph.resize( numNode );
     for( int i = 0; i < n; ++ i ){
-      vector<int> tmpgraph(n);
+      vector<int> tmpgraph( n );
       graph[i] = tmpgraph;
     }
   }

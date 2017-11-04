@@ -8,7 +8,7 @@ void qsort( vector<int> arr ){
 	if( arr.size() <= 0 )
 		return ;
 	stack<Range> st;
-	st.push( Range(0,arr.size()-1 );
+	st.push( Range( 0,arr.size()-1 );
 	while( !st.empty() ){
 		Range range = st.top();
 		st.pop();

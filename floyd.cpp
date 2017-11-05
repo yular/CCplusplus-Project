@@ -35,7 +35,7 @@ public:
     
   }
   
-  int getDist(int s, int t){
+  int getDist( int s, int t ){
     return graph[s][t];
   }
   

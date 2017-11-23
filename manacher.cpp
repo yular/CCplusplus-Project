@@ -27,7 +27,7 @@ public:
         if(i + p[i] > id + p[id])
             id = i;
         if(res < p[i]){
-          res = max(res, p[i]);
+          res = max( res, p[i] );
           idx = i;
         }
     }

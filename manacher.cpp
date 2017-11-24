@@ -26,7 +26,7 @@ public:
         while( s1[p[i] + i] == s1[i - p[i]] ) ++ p[i];
         if(i + p[i] > id + p[id])
             id = i;
-        if(res < p[i]){
+        if(res < p[i]) {
           res = max( res, p[i] );
           idx = i;
         }

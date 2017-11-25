@@ -33,6 +33,6 @@ public:
     }
     //return the idx of center of longest palindrome substring
     //res is the length of longest palindrome substring
-    return idx/2 - 1;
+    return idx / 2 - 1;
   }
 }

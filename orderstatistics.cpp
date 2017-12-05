@@ -5,7 +5,7 @@ public:
      * param nums : description of array and index 0 ~ n-1
      * return: description of return
      * runtime: O(n)
-     * space complexity: O(1)
+     * space complexity:  O(1)
      */
     int kthLargestElement( int k, vector<int> nums ) {
         // write your code here

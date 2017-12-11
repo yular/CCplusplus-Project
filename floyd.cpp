@@ -1,5 +1,5 @@
 public class Floyd {
-private:
+private:   
   int numNode = 1035;
   vector< vector<int> > graph;
   

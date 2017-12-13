@@ -19,7 +19,7 @@ void qsort( vector<int> arr ){
 				swap(arr[i], arr[++ pos]);
 			}
 		}
-		swap(arr[++ pos], arr[range.end]);
+		swap( arr[++ pos], arr[range.end] );
 		if(pos-1 > range.start){
 			st.push(Range(range.start, pos - 1));
 		}

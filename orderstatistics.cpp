@@ -11,6 +11,7 @@ public:
         // write your code here
         int ans = 0;
         int n = nums.size() - 1, start = 0, end = nums.size() - 1;
+        
         while( 1 ) {
             int pivot = nums[end];
             int tpos = start - 1;

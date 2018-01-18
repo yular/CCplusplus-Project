@@ -24,7 +24,7 @@ public:
     }
   }
   
-  void floyd(){
+  void floyd() {
     for( int k = 0; k < n; ++ k ) {
       for( int i = 0; i < n; ++ i ) {
         for( int j = 0; j < n; ++ j ) {
@@ -34,7 +34,7 @@ public:
     }
   }
   
-  int getDist( int s, int t ){
+  int getDist( int s, int t ) {
     return graph[s][t];
   }
 }

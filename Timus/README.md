@@ -98,6 +98,7 @@ To view the idea of solution, please check this website:  http://yular.github.io
 * Sum of Sequential Numbers: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1120);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1120_sumofsequentialnumbers.cpp).
 * Crazy Notions: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1295);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1295_crazynotions.cpp).
 * Bald Spot Revisited: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1355);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1355_baldspotrevisited.cpp).
+* Interesting Number: [Problem](http://acm.timus.ru/submit.aspx?space=1&num=1385);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1385_interestingnumber.cpp).
 * Passenger Comfort: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1885);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1885_passengercomfort.cpp).
 * Fire Circle: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1490);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1490_firecircle.cpp).
 * Cashmaster: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1515);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1515_cashmaster.cpp).

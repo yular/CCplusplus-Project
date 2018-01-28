@@ -12,6 +12,7 @@ public:
       vector<int> tmpgraph( n );
       graph[i] = tmpgraph;
     }
+    
   }
   
   void buildGraph( int m, bool isDirective ) {

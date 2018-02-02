@@ -36,4 +36,5 @@ public:
     //res is the length of longest palindrome substring
     return idx / 2 - 1;
   }
+  
 }

@@ -66,6 +66,7 @@ To view the idea of solution, please check this website:  http://yular.github.io
 * Overturned Numbers: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=2031);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_2031_overturnednumbers.cpp).
 * Strange Procedure: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1214);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1214_strangeprocedure.cpp).
 * The battle near the swamp: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1991);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1991_thebattleneartheswamp.cpp).
+* Log Files: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=2073);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_2073_logfiles.cpp).
 
 ### Search
 * Ships: [Problem](http://acm.timus.ru/problem.aspx?space=1&num=1115);   [Code](https://github.com/yular/CCplusplus-Project/blob/master/Timus/timus_1115_ships.cpp).

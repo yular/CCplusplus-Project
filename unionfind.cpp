@@ -33,5 +33,5 @@ public:
   
   private:
     vector<int> fa;
-  
+
 }

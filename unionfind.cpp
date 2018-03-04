@@ -6,7 +6,7 @@ public:
     for( int i = 0; i < n; ++ i )
       fa[i] = -1;
   }
-  
+ 
   int find( int u ){
     int s = u;
     for( s = u; fa[s] >= 0; s = fa[s] ) ;

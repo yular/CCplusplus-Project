@@ -26,5 +26,6 @@ void qsort( vector<int> arr  ){
 		if(pos+1 < range.end){
 			st.push(Range(pos + 1, range.end));
 		}
+		
 	}
 }
